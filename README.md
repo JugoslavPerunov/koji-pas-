@@ -1,0 +1,2 @@
+# koji-pas-
+pcelaJesteOsaNije
